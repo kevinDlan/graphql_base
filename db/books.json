@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "title": "Machine Learning Hand Book for Beginers",
+    "author": "Andre NJ",
+    "price": 198,
+    "licence":"open_source"
+  },
+  {
+    "id": 2,
+    "title": "Machine Learning :  All About Model",
+    "author": "Andre NJ",
+    "price": 200.99,
+    "licence":"MIT"
+  },
+  {
+    "id": 3,
+    "title": "GraphQL All you must know",
+    "author": "Node Fundation",
+    "price": 306.99,
+    "licence":"open_source"
+  }
+]

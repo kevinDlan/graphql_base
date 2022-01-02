@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "name": "kevin KONE",
+    "email": "kevinkone19@gmail.com",
+    "post":"Data Scientis",
+    "otherSkill":"Developper"
+  },
+  {
+    "id": 2,
+    "name": "Ben KONATE",
+    "email": "benkonate@gmail.com",
+    "post": "Data Scientis",
+    "otherSkill": "Cyber Security"
+  },
+  {
+    "id": 3,
+    "name": "Ulrich KOUAKOU",
+    "email": "ulrichkouakou@gmail.com",
+    "post": "Data Analyst",
+    "otherSkill": "Data Engener"
+  },
+  {
+    "id": 4,
+    "name": "Marc AFFECHI",
+    "email": "marcaffechi@gmail.com",
+    "post": "Data Scientis",
+    "otherSkill": "Developper"
+  },
+  {
+    "id": 5,
+    "name": "Yves Roland",
+    "email": "roland@gmail.com",
+    "post": "Data Scientis",
+    "otherSkill": "Developper"
+  },
+  {
+    "id": 6,
+    "name": "Cedric KOUAKOU",
+    "email": "cedrickouakou@mail.com",
+    "post": "Data Scientis",
+    "otherSkill": "Developper"
+  }
+]
